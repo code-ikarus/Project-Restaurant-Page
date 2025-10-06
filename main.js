@@ -146,7 +146,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _home__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./home */ \"./src/home.js\");\n/* harmony import */ var _menu__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./menu */ \"./src/menu.js\");\n/* harmony import */ var _about__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./about */ \"./src/about.js\");\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n\n\n\n\n\nconst content = document.getElementById(\"content\");\nconst homebtn = document.getElementById(\"home-btn\");\nconst menubtn = document.getElementById(\"menu-btn\");\nconst aboutbtn = document.getElementById(\"about-btn\");\n\nfunction clearContent(){\n  content.innerHTML = \"\";\n}\n\nhomebtn.addEventListener(\"click\", () => {\n  clearContent();\n  (0,_home__WEBPACK_IMPORTED_MODULE_0__[\"default\"])();\n})\n\nmenubtn.addEventListener(\"click\", () =>{\n  clearContent();\n  (0,_menu__WEBPACK_IMPORTED_MODULE_1__[\"default\"])();\n})\n\naboutbtn.addEventListener(\"click\", () =>{\n  clearContent();\n  (0,_about__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n})\n;(0,_home__WEBPACK_IMPORTED_MODULE_0__[\"default\"])();//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvaW5kZXguanMiLCJtYXBwaW5ncyI6Ijs7Ozs7QUFBb0M7QUFDQTtBQUNFO0FBQ2pCOztBQUVyQjtBQUNBO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBLEVBQUUsaURBQWM7QUFDaEIsQ0FBQzs7QUFFRDtBQUNBO0FBQ0EsRUFBRSxpREFBYztBQUNoQixDQUFDOztBQUVEO0FBQ0E7QUFDQSxFQUFFLGtEQUFlO0FBQ2pCLENBQUM7QUFDRCxrREFBYyIsInNvdXJjZXMiOlsid2VicGFjazovL3Byb2plY3QtcmVzdGF1cmFudC1wYWdlLy4vc3JjL2luZGV4LmpzP2I2MzUiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IGNyZWF0ZUhvbWVQYWdlIGZyb20gXCIuL2hvbWVcIjtcbmltcG9ydCBjcmVhdGVNZW51UGFnZSBmcm9tIFwiLi9tZW51XCI7XG5pbXBvcnQgY3JlYXRlQWJvdXRQYWdlIGZyb20gXCIuL2Fib3V0XCI7XG5pbXBvcnQgXCIuL3N0eWxlLmNzc1wiO1xuXG5jb25zdCBjb250ZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoXCJjb250ZW50XCIpO1xuY29uc3QgaG9tZWJ0biA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKFwiaG9tZS1idG5cIik7XG5jb25zdCBtZW51YnRuID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoXCJtZW51LWJ0blwiKTtcbmNvbnN0IGFib3V0YnRuID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoXCJhYm91dC1idG5cIik7XG5cbmZ1bmN0aW9uIGNsZWFyQ29udGVudCgpe1xuICBjb250ZW50LmlubmVySFRNTCA9IFwiXCI7XG59XG5cbmhvbWVidG4uYWRkRXZlbnRMaXN0ZW5lcihcImNsaWNrXCIsICgpID0+IHtcbiAgY2xlYXJDb250ZW50KCk7XG4gIGNyZWF0ZUhvbWVQYWdlKCk7XG59KVxuXG5tZW51YnRuLmFkZEV2ZW50TGlzdGVuZXIoXCJjbGlja1wiLCAoKSA9PntcbiAgY2xlYXJDb250ZW50KCk7XG4gIGNyZWF0ZU1lbnVQYWdlKCk7XG59KVxuXG5hYm91dGJ0bi5hZGRFdmVudExpc3RlbmVyKFwiY2xpY2tcIiwgKCkgPT57XG4gIGNsZWFyQ29udGVudCgpO1xuICBjcmVhdGVBYm91dFBhZ2UoKTtcbn0pXG5jcmVhdGVIb21lUGFnZSgpOyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/index.js\n\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _home__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./home */ \"./src/home.js\");\n/* harmony import */ var _menu__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./menu */ \"./src/menu.js\");\n/* harmony import */ var _about__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./about */ \"./src/about.js\");\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n\n\n\n\n\nconst content = document.getElementById(\"content\");\nconst homebtn = document.getElementById(\"home-btn\");\nconst menubtn = document.getElementById(\"menu-btn\");\nconst aboutbtn = document.getElementById(\"about-btn\");\n\nfunction clearContent(){\n  content.innerHTML = \"\";\n}\n\nhomebtn.addEventListener(\"click\", () => {\n  clearContent();\n  (0,_home__WEBPACK_IMPORTED_MODULE_0__[\"default\"])();\n})\n\nmenubtn.addEventListener(\"click\", () =>{\n  clearContent();\n  (0,_menu__WEBPACK_IMPORTED_MODULE_1__[\"default\"])();\n})\n\naboutbtn.addEventListener(\"click\", () =>{\n  clearContent();\n  (0,_about__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n})\n\n;(0,_home__WEBPACK_IMPORTED_MODULE_0__[\"default\"])();//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvaW5kZXguanMiLCJtYXBwaW5ncyI6Ijs7Ozs7QUFBb0M7QUFDQTtBQUNFO0FBQ2pCOztBQUVyQjtBQUNBO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBLEVBQUUsaURBQWM7QUFDaEIsQ0FBQzs7QUFFRDtBQUNBO0FBQ0EsRUFBRSxpREFBYztBQUNoQixDQUFDOztBQUVEO0FBQ0E7QUFDQSxFQUFFLGtEQUFlO0FBQ2pCLENBQUM7O0FBRUQsa0RBQWMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9wcm9qZWN0LXJlc3RhdXJhbnQtcGFnZS8uL3NyYy9pbmRleC5qcz9iNjM1Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBjcmVhdGVIb21lUGFnZSBmcm9tIFwiLi9ob21lXCI7XG5pbXBvcnQgY3JlYXRlTWVudVBhZ2UgZnJvbSBcIi4vbWVudVwiO1xuaW1wb3J0IGNyZWF0ZUFib3V0UGFnZSBmcm9tIFwiLi9hYm91dFwiO1xuaW1wb3J0IFwiLi9zdHlsZS5jc3NcIjtcblxuY29uc3QgY29udGVudCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKFwiY29udGVudFwiKTtcbmNvbnN0IGhvbWVidG4gPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChcImhvbWUtYnRuXCIpO1xuY29uc3QgbWVudWJ0biA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKFwibWVudS1idG5cIik7XG5jb25zdCBhYm91dGJ0biA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKFwiYWJvdXQtYnRuXCIpO1xuXG5mdW5jdGlvbiBjbGVhckNvbnRlbnQoKXtcbiAgY29udGVudC5pbm5lckhUTUwgPSBcIlwiO1xufVxuXG5ob21lYnRuLmFkZEV2ZW50TGlzdGVuZXIoXCJjbGlja1wiLCAoKSA9PiB7XG4gIGNsZWFyQ29udGVudCgpO1xuICBjcmVhdGVIb21lUGFnZSgpO1xufSlcblxubWVudWJ0bi5hZGRFdmVudExpc3RlbmVyKFwiY2xpY2tcIiwgKCkgPT57XG4gIGNsZWFyQ29udGVudCgpO1xuICBjcmVhdGVNZW51UGFnZSgpO1xufSlcblxuYWJvdXRidG4uYWRkRXZlbnRMaXN0ZW5lcihcImNsaWNrXCIsICgpID0+e1xuICBjbGVhckNvbnRlbnQoKTtcbiAgY3JlYXRlQWJvdXRQYWdlKCk7XG59KVxuXG5jcmVhdGVIb21lUGFnZSgpOyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/index.js\n\n}");
 
 /***/ }),
 
@@ -221,6 +221,18 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /******/ 		};
 /******/ 	})();
 /******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -239,7 +251,25 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/";
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript && document.currentScript.tagName.toUpperCase() === 'SCRIPT')
+/******/ 				scriptUrl = document.currentScript.src;
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) {
+/******/ 					var i = scripts.length - 1;
+/******/ 					while (i > -1 && (!scriptUrl || !/^http(s?):/.test(scriptUrl))) scriptUrl = scripts[i--].src;
+/******/ 				}
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/^blob:/, "").replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/nonce */
